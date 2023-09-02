@@ -1,0 +1,112 @@
+{
+    "materials": [
+      {
+        "name": "Fine Aggregates",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Coarse Aggregates",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Bricks",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "AAC Block",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Admixture",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Concrete",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Cement",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Building Stone",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Bitumen",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Gypsum Building Plaster",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "TMT Steel Bars",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "UPVC Pipe",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Paver Block",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Thermoplastic Pains & Glass Beads",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Tiles",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Marble",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "G-I / Concrete Pipe",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "PVC & CPVC Pipe",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Glaze Stoneware Pipe & Fittings",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Bitumen Emulsion",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Fly Ash",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Cement Concrete",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Hollow Blocks",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Water",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Wood",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Concrete Design Mix",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      },
+      {
+        "name": "Non Destructive Test",
+        "image_url": "https://i.imgur.com/qF1gsPw.jpg"
+      }
+    ]
+  }
